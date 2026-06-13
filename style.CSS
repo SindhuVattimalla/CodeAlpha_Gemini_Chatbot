@@ -1,0 +1,18 @@
+body{
+    font-family: Arial;
+    display:flex;
+    justify-content:center;
+    margin-top:50px;
+}
+
+.chat-container{
+    width:400px;
+}
+
+#chat-box{
+    border:1px solid black;
+    height:400px;
+    overflow-y:scroll;
+    padding:10px;
+    margin-bottom:10px;
+}
